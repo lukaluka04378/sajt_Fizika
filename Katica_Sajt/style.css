@@ -1,0 +1,43 @@
+body {
+    background-color: gray;
+}
+
+.row {
+
+    height: 100%;
+}
+
+.column {
+    float: left;
+    padding: 10px;
+    height: 100%;
+}
+
+.left {
+    width: 75%;
+}
+
+.right {
+    width: 25%;
+    top: 100px;
+    bottom: 0;
+    background-color: red;
+}
+
+.nav-item {
+    margin-right: 130px;
+    margin-left: 130px;
+}
+
+html, body {
+    height: 100%;
+}
+
+/*
+#bannerimage {
+    width: 100%;
+    background-image: url();
+    height: 405px;
+    background-color: purple;
+    background-position: center;
+}*/
